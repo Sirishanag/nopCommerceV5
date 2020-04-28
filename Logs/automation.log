@@ -1,0 +1,238 @@
+[INFO ] 2020-04-16 10:17:49.033 [TestNG-tests-2] Tc_Logintest_001 - ************LoginTest001***********
+[INFO ] 2020-04-16 10:17:49.880 [TestNG-tests-2] Tc_Logintest_001 - ************Sending Data***********
+[INFO ] 2020-04-16 10:17:50.024 [TestNG-tests-2] Tc_Logintest_001 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 10:17:51.473 [TestNG-tests-2] Tc_Logintest_001 - ***********Validating the Test**********
+[INFO ] 2020-04-16 10:22:35.306 [TestNG-tests-1] Tc_Logintest_001 - ************LoginTest001***********
+[INFO ] 2020-04-16 10:22:36.157 [TestNG-tests-2] Tc_Logintest_001 - ************LoginTest001***********
+[INFO ] 2020-04-16 10:22:36.356 [TestNG-tests-1] Tc_Logintest_001 - ************Sending Data***********
+[INFO ] 2020-04-16 10:22:36.914 [TestNG-tests-1] Tc_Logintest_001 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 10:22:37.191 [TestNG-tests-2] Tc_Logintest_001 - ************Sending Data***********
+[INFO ] 2020-04-16 10:22:37.323 [TestNG-tests-2] Tc_Logintest_001 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 10:22:40.863 [TestNG-tests-1] Tc_Logintest_001 - ***********Validating the Test**********
+[INFO ] 2020-04-16 10:22:40.888 [TestNG-tests-1] Tc_Logintest_001 - **********Login Test Passed********
+[INFO ] 2020-04-16 10:22:41.180 [TestNG-tests-2] Tc_Logintest_001 - ***********Validating the Test**********
+[INFO ] 2020-04-16 10:22:41.196 [TestNG-tests-2] Tc_Logintest_001 - **********Login Test Passed********
+[INFO ] 2020-04-16 10:41:52.777 [TestNG-tests-1] Tc_Logintest_001 - ************LoginTest001***********
+[INFO ] 2020-04-16 10:41:53.445 [TestNG-tests-1] Tc_Logintest_001 - ************Sending Data***********
+[INFO ] 2020-04-16 10:41:53.892 [TestNG-tests-1] Tc_Logintest_001 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 10:41:56.996 [TestNG-tests-1] Tc_Logintest_001 - ***********Validating the Test**********
+[ERROR] 2020-04-16 10:41:57.016 [TestNG-tests-1] Tc_Logintest_001 - ***********Login Test Failed************
+[INFO ] 2020-04-16 21:04:11.764 [TestNG-tests-1] Tc_Logintest_001 - ************LoginTest001***********
+[INFO ] 2020-04-16 21:04:12.368 [TestNG-tests-1] Tc_Logintest_001 - ************Sending Data***********
+[INFO ] 2020-04-16 21:04:12.591 [TestNG-tests-1] Tc_Logintest_001 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 21:04:14.983 [TestNG-tests-1] Tc_Logintest_001 - ***********Validating the Test**********
+[ERROR] 2020-04-16 21:04:14.993 [TestNG-tests-1] Tc_Logintest_001 - ***********Login Test Failed************
+[INFO ] 2020-04-16 21:08:03.246 [TestNG-tests-1] Tc_Logintest_001 - ************LoginTest001***********
+[INFO ] 2020-04-16 21:08:03.717 [TestNG-tests-1] Tc_Logintest_001 - ************Sending Data***********
+[INFO ] 2020-04-16 21:08:03.943 [TestNG-tests-1] Tc_Logintest_001 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 21:08:05.967 [TestNG-tests-1] Tc_Logintest_001 - ***********Validating the Test**********
+[ERROR] 2020-04-16 21:08:05.976 [TestNG-tests-1] Tc_Logintest_001 - ***********Login Test Failed************
+[INFO ] 2020-04-16 23:41:10.253 [TestNG-tests-1] Tc_Logintest_001 - ************LoginTest001***********
+[INFO ] 2020-04-16 23:41:11.124 [TestNG-tests-1] Tc_Logintest_001 - ************Sending Data***********
+[INFO ] 2020-04-16 23:41:11.377 [TestNG-tests-1] Tc_Logintest_001 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 23:41:30.551 [TestNG-tests-1] Tc_Logintest_001 - ***********Validating the Test**********
+[ERROR] 2020-04-16 23:41:30.561 [TestNG-tests-1] Tc_Logintest_001 - ***********Login Test Failed************
+[INFO ] 2020-04-16 23:41:42.441 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-16 23:41:42.646 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 23:41:46.037 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-16 23:41:46.248 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-16 23:41:46.443 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 23:41:49.712 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-16 23:41:49.991 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-16 23:41:50.197 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 23:41:53.416 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-16 23:41:53.591 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-16 23:41:53.775 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 23:42:10.136 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-16 23:45:14.900 [TestNG-tests-1] Tc_Logintest_001 - ************LoginTest001***********
+[INFO ] 2020-04-16 23:45:15.875 [TestNG-tests-1] Tc_Logintest_001 - ************Sending Data***********
+[INFO ] 2020-04-16 23:45:16.081 [TestNG-tests-1] Tc_Logintest_001 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 23:45:19.355 [TestNG-tests-1] Tc_Logintest_001 - ***********Validating the Test**********
+[INFO ] 2020-04-16 23:45:19.375 [TestNG-tests-1] Tc_Logintest_001 - **********Login Test Passed********
+[INFO ] 2020-04-16 23:45:25.876 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-16 23:45:26.077 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 23:45:29.341 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-16 23:45:29.594 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-16 23:45:29.789 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 23:45:33.059 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-16 23:45:33.275 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-16 23:45:33.448 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 23:45:36.703 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-16 23:45:36.887 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-16 23:45:37.062 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-16 23:45:42.827 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-18 21:33:01.110 [TestNG-tests-1] Tc_Logintest_001 - ************LoginTest001***********
+[INFO ] 2020-04-18 21:33:01.822 [TestNG-tests-1] Tc_Logintest_001 - ************Sending Data***********
+[INFO ] 2020-04-18 21:33:02.060 [TestNG-tests-1] Tc_Logintest_001 - ********clicking on loginbutton**********
+[INFO ] 2020-04-18 21:33:04.227 [TestNG-tests-1] Tc_Logintest_001 - ***********Validating the Test**********
+[ERROR] 2020-04-18 21:33:04.236 [TestNG-tests-1] Tc_Logintest_001 - ***********Login Test Failed************
+[INFO ] 2020-04-18 21:33:11.375 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-18 21:33:11.607 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-18 21:33:14.886 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-18 21:33:15.111 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-18 21:33:15.356 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-18 21:33:18.592 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-18 21:33:18.783 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-18 21:33:18.988 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-18 21:33:22.248 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-18 21:33:22.454 [TestNG-tests-1] Tc_LoginDDT_002 - ************Sending Data***********
+[INFO ] 2020-04-18 21:33:22.645 [TestNG-tests-1] Tc_LoginDDT_002 - ********clicking on loginbutton**********
+[INFO ] 2020-04-18 21:33:28.158 [TestNG-tests-1] Tc_LoginDDT_002 - ****************DataDriven Test Finishad****************
+[INFO ] 2020-04-19 18:02:39.306 [TestNG-tests-1] Tc_Logintest_001 - ************LoginTest001***********
+[INFO ] 2020-04-19 18:02:39.957 [TestNG-tests-1] Tc_Logintest_001 - ************Sending Data***********
+[INFO ] 2020-04-19 18:02:40.184 [TestNG-tests-1] Tc_Logintest_001 - ********clicking on loginbutton**********
+[INFO ] 2020-04-19 18:02:42.322 [TestNG-tests-1] Tc_Logintest_001 - ***********Validating the Test**********
+[INFO ] 2020-04-19 18:02:42.335 [TestNG-tests-1] Tc_Logintest_001 - **********Login Test Passed********
+[INFO ] 2020-04-19 18:02:51.749 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:02:54.572 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:15:06.420 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:15:09.157 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:17:57.500 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:18:00.609 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:23:26.539 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:23:29.535 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:29:06.121 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:29:09.147 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:30:56.661 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:30:59.644 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:34:00.854 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:34:03.723 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:38:42.286 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:38:45.926 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:41:03.062 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:41:05.986 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:46:29.542 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:46:32.371 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:51:09.924 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:51:12.877 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:53:00.612 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:53:03.486 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:58:38.478 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:58:41.502 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 18:59:33.575 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 18:59:36.750 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 19:03:33.609 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 19:03:36.346 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 19:07:21.865 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 19:07:24.764 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 19:11:44.507 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 19:11:47.358 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 19:17:21.092 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 19:17:24.808 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 21:29:08.438 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 21:29:11.689 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 21:32:15.178 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 21:32:18.121 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 21:43:07.110 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 21:43:09.965 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 21:49:32.957 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 21:49:36.088 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 21:55:23.018 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 21:55:25.727 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 21:57:03.834 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 21:57:09.801 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 21:59:09.040 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 21:59:12.069 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 22:02:17.066 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 22:02:19.855 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-19 22:04:26.490 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-19 22:04:29.249 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-20 08:26:31.203 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-20 08:26:34.689 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-21 21:46:49.509 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-21 21:46:52.823 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-21 21:48:23.675 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-21 21:48:26.550 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-21 22:35:22.156 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-21 22:35:24.793 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-21 22:37:35.987 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-21 22:37:38.747 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 10:54:59.678 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 10:55:03.048 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 11:00:18.669 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 11:00:22.875 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 11:02:01.101 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 11:02:05.122 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 11:04:51.895 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 11:04:55.848 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 11:11:07.588 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 11:11:11.628 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 11:13:22.521 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 11:13:25.797 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 11:13:39.389 [TestNG-tests-1] Tc_AddnewCustomer_003 - *******************Verification****************
+[WARN ] 2020-04-22 11:13:39.446 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Test Failed******************
+[INFO ] 2020-04-22 11:15:33.271 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 11:15:37.343 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 11:15:56.533 [TestNG-tests-1] Tc_AddnewCustomer_003 - *******************Verification****************
+[WARN ] 2020-04-22 11:15:56.559 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Test Failed******************
+[INFO ] 2020-04-22 11:17:42.513 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 11:17:46.498 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 11:18:04.760 [TestNG-tests-1] Tc_AddnewCustomer_003 - *******************Verification****************
+[INFO ] 2020-04-22 11:18:04.789 [TestNG-tests-1] Tc_AddnewCustomer_003 - ****************Test Passed******************
+[INFO ] 2020-04-22 16:40:07.181 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 16:41:55.017 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 16:41:57.938 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 16:44:48.964 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 16:44:52.048 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 16:45:09.995 [TestNG-tests-1] Tc_AddnewCustomer_003 - *******************Verification****************
+[INFO ] 2020-04-22 16:45:10.017 [TestNG-tests-1] Tc_AddnewCustomer_003 - ****************Test Passed******************
+[INFO ] 2020-04-22 16:47:08.399 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 16:47:18.397 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 16:47:35.780 [TestNG-tests-1] Tc_AddnewCustomer_003 - *******************Verification****************
+[INFO ] 2020-04-22 16:47:35.804 [TestNG-tests-1] Tc_AddnewCustomer_003 - ****************Test Passed******************
+[INFO ] 2020-04-22 22:15:28.188 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 22:15:30.892 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 22:15:48.571 [TestNG-tests-1] Tc_AddnewCustomer_003 - *******************Verification****************
+[INFO ] 2020-04-22 22:15:48.589 [TestNG-tests-1] Tc_AddnewCustomer_003 - ****************Test Passed******************
+[INFO ] 2020-04-22 22:24:03.954 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 22:24:07.300 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 22:24:25.075 [TestNG-tests-1] Tc_AddnewCustomer_003 - *******************Verification****************
+[INFO ] 2020-04-22 22:24:25.097 [TestNG-tests-1] Tc_AddnewCustomer_003 - ****************Test Passed******************
+[INFO ] 2020-04-22 22:24:30.497 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-22 22:24:34.155 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-22 22:26:33.529 [TestNG-tests-1] Tc_AddnewCustomer_003 - ************Login***********
+[INFO ] 2020-04-22 22:26:36.721 [TestNG-tests-1] Tc_AddnewCustomer_003 - ***************Adding New Customer**************
+[INFO ] 2020-04-22 22:26:54.072 [TestNG-tests-1] Tc_AddnewCustomer_003 - *******************Verification****************
+[INFO ] 2020-04-22 22:26:54.107 [TestNG-tests-1] Tc_AddnewCustomer_003 - ****************Test Passed******************
+[INFO ] 2020-04-22 22:26:59.434 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-22 22:27:04.639 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-22 22:29:58.975 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-22 22:30:01.867 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-22 22:40:33.486 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-22 22:40:38.153 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-22 22:42:10.678 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-22 22:42:14.808 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-22 22:46:08.448 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-22 22:46:38.042 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-22 22:46:42.840 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-22 22:49:13.254 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-22 22:49:16.152 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-22 22:50:38.797 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-22 22:50:44.616 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-22 23:04:17.289 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-22 23:04:22.881 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-23 20:09:23.068 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-23 20:09:26.195 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-23 20:40:48.970 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-23 20:40:52.694 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-23 20:45:44.196 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-23 20:45:47.062 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-23 20:45:53.480 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *************Searching Customer by Name***********
+[INFO ] 2020-04-23 21:02:00.345 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - ************Test Started SearchCustomerbyName_005***********
+[INFO ] 2020-04-23 21:02:03.030 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - *****Clicking on Customers menu************
+[INFO ] 2020-04-23 21:02:07.345 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - *****Search Customer passed************
+[INFO ] 2020-04-23 21:04:20.971 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-23 21:04:23.755 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-23 21:04:35.443 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - ************Test Started SearchCustomerbyName_005***********
+[INFO ] 2020-04-23 21:04:38.291 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - *****Clicking on Customers menu************
+[INFO ] 2020-04-23 21:04:42.871 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - *****Search Customer passed************
+[INFO ] 2020-04-23 22:47:22.174 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-23 22:47:26.404 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-23 22:47:39.118 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - ************Test Started SearchCustomerbyName_005***********
+[INFO ] 2020-04-23 22:47:42.411 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - *****Clicking on Customers menu************
+[INFO ] 2020-04-23 22:47:47.023 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - *****Search Customer passed************
+[INFO ] 2020-04-24 00:18:33.853 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - ************Test Started SearchCustomerbyEmail_004***********
+[INFO ] 2020-04-24 00:18:36.402 [TestNG-tests-1] Tc_SearchCustomerbyEmail_004 - *****Clicking on Customers menu************
+[INFO ] 2020-04-24 00:18:48.056 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - ************Test Started SearchCustomerbyName_005***********
+[INFO ] 2020-04-24 00:18:50.668 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - *****Clicking on Customers menu************
+[INFO ] 2020-04-24 00:18:54.947 [TestNG-tests-1] Tc_SearchCustomerbyName_005 - *****Search Customer passed************
